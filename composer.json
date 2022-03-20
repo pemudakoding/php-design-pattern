@@ -1,0 +1,19 @@
+{
+  "name": "pemudakoding/design-pattern",
+  "description": "Learn anything about Design Pattern",
+  "type": "project",
+  "require": {
+    "php": ">=8"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Stiven Katuuk",
+      "email": "pemudakoding@gmail.com"
+    }
+  ]
+}
